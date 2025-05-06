@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+ <meta http-equiv="content-type" content="text/html; charset= iso8859-1"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PAGINA WEB</title>
+<link rel="icon" href="icono.ico">
+</head>
+ <style>
+        h1 {
+            text-align: center;
+        }
+    
+    </style>
+<body background="fondo 1.jpeg" alt= "11-3 web">
+
+
+ <font size="6"><i><h1>PAGINA WEB</h1></i></font>
+
+  <div id="arriba" style="position:absolute; top:0; left:0;"></div>
+
+ <p style="position:absolute; top:10px; left:210px;">
+   <font size="4"> <font face="arial black"> <a href="#abajo">Ir abajo</a></font>
+  </p>
+
+ <font size="5"><p style="color:red;" align="center">Presentado por Lina Garzón y Cristian Pinzón</p></font>
+
+ <div align="left"><img src="IMAGEN 4.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face= "algerian"> <font size="5"><p style="color:blue;" align="left">Soy Isa y me gusta jugar call of duty</p></font></div> </font>
+
+ <div align="right"><img src="IMAGEN 7.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="arial"><font size="5"><p style="color:red;" align="right">Soy Cami y me gusta jugar free fire</p></font></div></font>
+
+ <br>
+ <div align="left"><img src="IMAGEN 1.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="arial black"> <font size="5"><p style="color:green;" align="left"> 
+      <a href="file:///E:/mascota/index.html" target="_blank" style="color:inherit; text-decoration:none;">
+        Foto con mi perro Matteo  </a> </p>
+      </div>
+     </font>
+
+ <div align="right"><img src="IMAGEN 5.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="algerian"> <font size="5"><p style="color:black;" align="right">
+      <a href="file:///E:/mascota%202/index.html" target="_blank" style="color:inherit; text-decoration:none;">
+         Foto con mi perro Ñato  </a>  </p>
+      </div>
+     </font>
+ <br>
+ <div align="left"><img src="IMAGEN 2.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="arial"> <font size="5"><p style="color:purple;"align="left"> Foto haciendo aseo en la sala</p></font></div></font>
+
+ <div align="right"><img src="IMAGEN 6.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="arial black"> <font size="5"><p style="color:brown;"align="right"> Foto haciendo aseo en la casa</p></font></div></font>
+
+ <br>
+ <div align="left"><img src="IMAGEN 3.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="algerian"> <font size="5"><p style="color:navy;"align="left"> Foto estudiando para la evaluación de inglés</p></font></div></font>
+ 
+ <div align="right"><img src="IMAGEN 8.jpeg" width="300" height="320" alt= "11-3 web">
+ <font face="arial"><font size="5"><p style="color:maroon; align="right"> Foto estudiando para la evaluación de matemáticas</p></font></div></font>
+ 
+
+ <center>
+ <video width="600" height="600" controls>
+  <source src="video.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+ </video>
+ </center>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+ <div align="left"><img src="img 1.jpeg" width="300" height="380" alt= "11-3 web">
+ <font face= "arial black"> <font size="5"><p style="color:MidnightBlue;" align="left">Foto con un patrullero</p></font></div> </font>
+
+ <div align="right"><img src="img 2.jpeg" width="300" height="380" alt= "11-3 web">
+ <font face="arial black"><font size="5"><p style="color:magenta;" align="right">Foto frente a la alcaldia</p></font></div></font>
+
+ <br>
+ <div align="left"><img src="img 3.jpeg" width="300" height="380" alt= "11-3 web">
+ <font face="arial black"> <font size="5"><p style="color:crimson;" align="left">Foto con el monumento del bunde</p></font></div></font>
+
+ <div align="right"><img src="img 4.jpeg" width="300" height="380" alt= "11-3 web">
+ <font face="arial black"> <font size="5"><p style="color:teal;" align="right">Foto frente a la catedral</p></font></div></font>
+
+ <a id="abajo" style="position:absolute; top:6000px; left:0;"></a>
+
+ <br>
+ <div align="left"><img src="img 5.jpeg" width="300" height="380" alt= "11-3 web">
+ <font face="arial black"> <font size="5"><p style="color:olive;"align="left">Foto con una hermana en la inglesia del barrio futuro</p></font></div></font>
+  
+  <p style="position:absolute; top:6500px; right:210px;">
+    <font size="4"> <font face="arial black"> <a href="#arriba">Ir arriba</a></font>
+  </p>
+</body>
+</html>
+
+
+
